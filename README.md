@@ -5,5 +5,5 @@ This repository contains the Dockerfile and scripts to build a PHP Alpine Docker
 
 
 ## Supported tags
-- `fpm-8.2`
-- `fpm-8.2-arm64v8`
+- `t1nkl/php-alpine:fpm-8.2`
+- `t1nkl/php-alpine:fpm-8.2-arm64v8`
